@@ -1,0 +1,8 @@
+drwxr-xr-x    2 5094       client93         4096 Jun  6  2015 .
+drwx--x---   43 5094       client93         4096 Mar 16  2017 ..
+-rw-r--r--    1 5094       client93         2589 Jun  6  2015 configuration.php
+-rw-r--r--    1 5094       client93         1992 Jun  6  2015 deletefiles.php
+-rw-r--r--    1 5094       client93         9633 Jun  6  2015 finder_indexer.php
+-rw-r--r--    1 5094       client93         1004 Jun  6  2015 garbagecron.php
+-rw-r--r--    1 5094       client93           31 Jun  6  2015 index.html
+-rw-r--r--    1 5094       client93         1739 Jun  6  2015 update_cron.php
